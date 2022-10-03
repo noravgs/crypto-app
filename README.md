@@ -1,23 +1,12 @@
-# Business Boost
-Share and Support your favorite local shops. List of resources for anyone that wants to start their own business. 
+# Crypto-App
+Check crypto coins price. 
 **Link to project:** http://noravgs.github.io/crypto-app
 
 ![image]()
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB & Cloudinary.
-
-In this project, I used React in order to understand reusability of components. I used tailwind to facilitate styling.  
-
-## Optimizations:
-(optional)
-
-Having more time I would continue creating the rest of the components for more user interaction. Add a MongoDB to store users,shops and orders. 
-
-## Lessons Learned:
-
-While working with React it made the process of creating an APP cleaner and easier. Organizing and styling with Tailwind made the process faster and adaptable. Being able to make the site responsive in the same page as your elements was a game changer.
+**Tech used:** HTML, CSS and React
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
