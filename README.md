@@ -2,7 +2,7 @@
 Check crypto coins price. 
 **Link to project:** http://noravgs.github.io/crypto-app
 
-![image]()
+![image](https://github.com/noravgs/crypto-app/blob/main/public/images/crypto-app.gif?raw=true)
 
 ## How It's Made:
 
